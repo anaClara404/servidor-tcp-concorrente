@@ -2,7 +2,7 @@
 
 O diagrama abaixo representa o fluxo básico de mensagens no sistema de **chat TCP concorrente**, mostrando a interação entre múltiplos clientes e o servidor.
 
-```mermaid
+```bash
 Diagrama
     participante C1 como Cliente 1
     participante C2 como Cliente 2
