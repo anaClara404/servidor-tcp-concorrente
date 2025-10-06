@@ -1,4 +1,4 @@
-# Servidor TCP Concorrente — Etapas 1 e 2
+# Servidor TCP Concorrente — Programação Concorrente e Distribuída
 
 ## Objetivo
 Desenvolver um sistema de **servidor de chat multiusuário TCP concorrente**, em C++, aplicando conceitos de programação concorrente (threads, exclusão mútua, sockets e logging thread-safe).  
